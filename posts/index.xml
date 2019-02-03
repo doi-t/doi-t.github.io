@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on cat tech_notes | grep &#34;$relevant, I guess.&#34;</title>
-    <link>https://doi-t.github.io/posts/</link>
+    <link>https://doi-t.net/posts/</link>
     <description>Recent content in Posts on cat tech_notes | grep &#34;$relevant, I guess.&#34;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Feb 2019 15:25:13 +0900</lastBuildDate>
     
-	<atom:link href="https://doi-t.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://doi-t.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>test</title>
-      <link>https://doi-t.github.io/2019/02/03/test/</link>
+      <link>https://doi-t.net/2019/02/03/test/</link>
       <pubDate>Sun, 03 Feb 2019 15:25:13 +0900</pubDate>
       
-      <guid>https://doi-t.github.io/2019/02/03/test/</guid>
+      <guid>https://doi-t.net/2019/02/03/test/</guid>
       <description>Markdown Rendering Test Ref. https://markdown-it.github.io/
 h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements &amp;copy; &amp;copy; &amp;reg; &amp;reg; &amp;trade; &amp;trade; (p) (P) +-
 test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
