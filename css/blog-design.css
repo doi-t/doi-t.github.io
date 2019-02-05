@@ -61,9 +61,11 @@ th, td {
   padding: 8px;
 }
 
-.title {
+.blog-title {
+  font-weight: bold;
   text-align: left;
   font-family: 'Source Code Pro', sans-serif;
+  font-size: 4.5vmin;
 }
 
 .post-date {
@@ -84,6 +86,10 @@ th, td {
 
 a:link, a:visited, a:hover, a:active {
   color: #4C5557;
+}
+
+.menu {
+  font-size: 4vmin;
 }
 
 .menu a:link, a:visited {
