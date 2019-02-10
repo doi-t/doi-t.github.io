@@ -44,8 +44,8 @@ if (!doNotTrack) {
     </a>
   </div>
 
+  <div id="menu">
   <nav>
-  <div class="menu">
   <strong>
     $
     
@@ -65,10 +65,11 @@ if (!doNotTrack) {
     
     /dev/null
   </strong>
-  </div>
   </nav>
+  </div>
 
   <hr>
+
 
   <div class="post">
   
@@ -85,6 +86,22 @@ if (!doNotTrack) {
 
 
   </div>
+
+<script>
+  window.onscroll = function() {myFunction()};
+
+  var navbar = document.getElementById("menu");
+  var sticky = navbar.offsetTop;
+
+  function myFunction() {
+    if (window.pageYOffset >= sticky) {
+      navbar.classList.add("sticky")
+    } else {
+      navbar.classList.remove("sticky");
+    }
+  }
+</script>
+
 </body>
 
 <footer>
