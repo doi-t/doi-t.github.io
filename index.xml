@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cat tech_notes | grep &#34;$relevant, I guess.&#34;</title>
+    <title>$ cat tech_notes | grep &#34;$relevant, I guess.&#34;</title>
     <link>https://doi-t.net/</link>
-    <description>Recent content on cat tech_notes | grep &#34;$relevant, I guess.&#34;</description>
+    <description>Recent content on $ cat tech_notes | grep &#34;$relevant, I guess.&#34;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Feb 2019 15:25:13 +0900</lastBuildDate>
